@@ -6,4 +6,5 @@
     </style>
 
     <style name="Theme.S8Proyect" parent="Base.Theme.S8Proyect" />
+    <style name="Theme.MenuWebView" parent="Theme.MaterialComponents.DayNight.DarkActionBar"/>
 </resources>

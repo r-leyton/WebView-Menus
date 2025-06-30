@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_lakers" android:title="Lakers"/>
+    <item android:id="@+id/menu_warriors" android:title="Warriors"/>
+    <item android:id="@+id/menu_celtics" android:title="Celtics"/>
+</menu>
